@@ -19,4 +19,4 @@
 - 🌱 Learning python, more of JS, HTML&CSS, MySQL
 - 🤔 Looking for people to help me grow my community
 - 📫 Reach me on Candy 🍭#0670
-- ⚡ Fun fact, I'm english but I can speak/write french 
+- ⚡ Fun fact, I'm partly english but I can speak/write french 
