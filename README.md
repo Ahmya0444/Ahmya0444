@@ -16,7 +16,7 @@
 
 
 - 🔭 Currently working on Maëli
-- 🌱 Learning python, more of JS, HTML&CSS, MySQL
+- 🌱 Learning python, more of JS, HTML&CSS, MySQL, Docker
 - 🤔 Looking for people to help me grow my community
-- 📫 Reach me on Candy 🍭#0670
+- 📫 Reach me on Tenshi ぞ#9872
 - ⚡ Fun fact, I'm partly english but I can speak/write french 
