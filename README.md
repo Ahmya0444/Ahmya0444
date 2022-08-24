@@ -11,6 +11,8 @@
 </p>
   
 ![Tenshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tenshi068=&show_icons=true&theme=radical)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tenshi068&layout=compact)](https://github.com/Tenshi068/github-readme-stats)
 
 <img src="https://wakatime.com/share/@Candy/fd7e2fff-c58c-4824-9163-2d6df92567a3.svg">
 
