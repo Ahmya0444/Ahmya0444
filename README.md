@@ -12,8 +12,6 @@
   
 ![Tenshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tenshi068=&show_icons=true&theme=radical)
 
-<p align="center"><img src="https://github-readme-stats-five-lyart.vercel.app/api?username=Tenshi068&show_icons=true" alt="gargakshit"/> </p>
-
 <img src="https://wakatime.com/share/@Candy/fd7e2fff-c58c-4824-9163-2d6df92567a3.svg">
 
 
