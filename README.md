@@ -20,10 +20,3 @@ src="https://camo.githubusercontent.com/dad0bd470ccac1d7413044b05b886be1e1063866
 ![Tenshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tenshi068&show_icons=true&theme=radical)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tenshi068&layout=compact)](https://github.com/Tenshi068/github-readme-stats)
-
-
-- 🔭 Currently working on Maëli
-- 🌱 Learning python, more of JS, HTML&CSS, MySQL, Docker
-- 🤔 Looking for people to help me grow my community
-- 📫 Reach me on Tenshi ぞ#9872
-- ⚡ Fun fact, I'm partly english but I can speak/write french 
