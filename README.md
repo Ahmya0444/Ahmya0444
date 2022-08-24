@@ -14,8 +14,6 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tenshi068&layout=compact)](https://github.com/Tenshi068/github-readme-stats)
 
-<img src="https://wakatime.com/share/@Candy/fd7e2fff-c58c-4824-9163-2d6df92567a3.svg">
-
 
 - 🔭 Currently working on Maëli
 - 🌱 Learning python, more of JS, HTML&CSS, MySQL, Docker
