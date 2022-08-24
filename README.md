@@ -9,8 +9,10 @@
 
 <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> <img 
 </p>
+  
+![Tenshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tenshi068=&show_icons=true&theme=radical)
 
-<p align="center"><img src="https://github-readme-stats-five-lyart.vercel.app/api?username=candy067&show_icons=true" alt="gargakshit"/> </p>
+<p align="center"><img src="https://github-readme-stats-five-lyart.vercel.app/api?username=Tenshi068&show_icons=true" alt="gargakshit"/> </p>
 
 <img src="https://wakatime.com/share/@Candy/fd7e2fff-c58c-4824-9163-2d6df92567a3.svg">
 
