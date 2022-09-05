@@ -25,4 +25,4 @@ src="https://camo.githubusercontent.com/41281b9a32f13ac5b9d41ed9bae12c0de662f948
   
 ![Ahmya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmya0444&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmya&layout=compact&theme=discord_old_blurple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmya0444&layout=compact&theme=discord_old_blurple)
